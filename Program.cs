@@ -9,6 +9,8 @@ namespace Empregado
         static void Main(string[] args)
         {
 
+            Console.WriteLine("testando a versao do git hub");
+
             DateTime d = DateTime.Now;
 
             string s1 = d.ToString("dd-MM-yyyy");
